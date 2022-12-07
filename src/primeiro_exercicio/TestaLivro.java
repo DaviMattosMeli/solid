@@ -7,7 +7,7 @@ public class TestaLivro {
 
         Livro livro = new Livro("Harry Potter", "JK", 2009,119.99,"4555645645");
 
-        Fatura fatura = new Fatura(livro,2,0.20,20);
+        Fatura fatura = new Fatura(livro,2,0.20,0.2);
 
         ImprimirFatura imprimir  = new ImprimirFatura(fatura);
 
