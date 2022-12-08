@@ -4,7 +4,7 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-public class TesteFuncionarios {
+public class TestaRH {
 
     public static void main(String[] args) {
         Gerente gerente = new Gerente(4950.00f, "Gerente de Caixa", "Pedro Silva", 520.00f);
