@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="321e3f72-aef3-4844-b20f-368a4c4e01b1" name="Changes" comment="Terceiro exercicio">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quarto_exercicio/AtendenteCaixa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quarto_exercicio/BonusAplicavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quarto_exercicio/Comissionavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quarto_exercicio/FolhaSalarial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quarto_exercicio/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quarto_exercicio/Gerente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quarto_exercicio/TestaRH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quarto_exercicio/Vendedor.java" afterDir="false" />
+    <list default="true" id="321e3f72-aef3-4844-b20f-368a4c4e01b1" name="Changes" comment="Quarto exercicio">
+      <change afterPath="$PROJECT_DIR$/src/quinto_exercicio/BackendDev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quinto_exercicio/FrontendDev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quinto_exercicio/IDev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quinto_exercicio/ProjetoSoftware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quinto_exercicio/TestaProjeto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/terceiro_exercicio/TesteFuncionarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiro_exercicio/TestaRH.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +47,26 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.quarto_exercicio.TestaRH">
+  <component name="RunManager" selected="Application.TestaProjeto">
     <configuration name="TestaLivro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="primeiro_exercicio.TestaLivro" />
       <module name="solid" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="primeiro_exercicio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaProjeto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quinto_exercicio.TestaProjeto" />
+      <module name="solid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quinto_exercicio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,6 +115,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestaProjeto" />
         <item itemvalue="Application.quarto_exercicio.TestaRH" />
         <item itemvalue="Application.TestaRH" />
         <item itemvalue="Application.segundo_exercicio.TestaLivro" />
@@ -122,7 +131,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670439783364</updated>
-      <workItem from="1670439784962" duration="8510000" />
+      <workItem from="1670439784962" duration="8999000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiro Exercicio">
       <created>1670440791738</created>
@@ -145,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670458568133</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Quarto exercicio">
+      <created>1670460244723</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670460244723</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +183,7 @@
     <MESSAGE value="Primeiro Exercicio" />
     <MESSAGE value="Segundo Exercicio" />
     <MESSAGE value="Terceiro exercicio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Terceiro exercicio" />
+    <MESSAGE value="Quarto exercicio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Quarto exercicio" />
   </component>
 </project>
